@@ -26,7 +26,7 @@
         <dubbo.version>2.5.3</dubbo.version>
         <!--<zkclien.version>0.1.0</zkclien.version>-->
         <!--<zookeeper.version>3.3.6</zookeeper.version>-->
-        <mybatis.version>3.5.2</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis.spring>2.0.2</mybatis.spring>
         <mysql.version>8.0.16</mysql.version>
         <druid.version>1.0.20</druid.version>
