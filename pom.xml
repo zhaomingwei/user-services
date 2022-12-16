@@ -22,7 +22,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <lombok.version>1.16.22</lombok.version>
         <junit.version>4.12</junit.version>
-        <spring.version>4.3.7.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <dubbo.version>2.5.3</dubbo.version>
         <!--<zkclien.version>0.1.0</zkclien.version>-->
         <!--<zookeeper.version>3.3.6</zookeeper.version>-->
